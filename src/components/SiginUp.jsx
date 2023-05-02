@@ -42,7 +42,7 @@ const SiginUp = () => {
 
     }
     return (
-        <div className='form-container'>
+        <div className='form-container '>
             <h2>Please sign up ?</h2>
            <form onSubmit={handleSignInSubmit}>
   <label htmlFor="name">Name:</label>
